@@ -1,0 +1,3 @@
+zainstaluj program node.js, następnie do pliku wievs
+skopiuj plik z kodem strony który musi się zazywać index.hbs,
+uruchą komende node app aby uruchomić serwer
